@@ -1,0 +1,2 @@
+# pocoyo
+A Validator Node does the heavy lifting work behind the scenes, processing transactions and running the network To start a Validator Node yourself you will need to meet the minimum hardware requirements.Running a Validator Node offers a unique opportunity to get involved as much as possible in the ecosystem development and adoption. Additionally, running a Validator Node will be eligible for periodic SafeCoin inflationary rewards. Validators are crucial guarantors for maintaining the stability and security 
